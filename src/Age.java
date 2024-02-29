@@ -1,0 +1,8 @@
+// age is greater print adult
+public class Age {
+    public static void main(String[] args) {
+        int age =12;
+        if(age<18);
+        System.out.println("you are a adult");
+    }
+}
